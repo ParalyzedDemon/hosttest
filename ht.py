@@ -16,4 +16,5 @@ async def ping(ctx):
 
 # run the bot using the DISCORD_BOT_TOKEN environment variable
 
-bot.run("MTQzNjg2MzAxMDM3ODQ4NTg3NA.GTQZKG.KZ_FVB7GUJOq_EnDEaPOshYM3ZxpbY3Vx5g2do")
+
+bot.run("MTQzNjg2MzAxMDM3ODQ4NTg3NA.G9fN9w.b8vU6vU3iu0dmeV09xpbFPF1H15vHsZTAMojCo")
